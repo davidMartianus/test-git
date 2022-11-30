@@ -1,1 +1,3 @@
 ini coba nambahin test.txt
+
+ini test
