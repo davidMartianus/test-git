@@ -1,0 +1,35 @@
+[33mcommit aeece1f613f13d6877f5530eb6a6aede0b19a397[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:50:52 2022 +0700
+
+    tambah line lagi di mata_kuliah.txt
+
+[33mcommit e4f18edf7dcbd5151d26ef1094aeb9939a0132e2[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:49:41 2022 +0700
+
+    hapus jurusan.txt lagi dan tambah line mata_kuliah.txt
+
+[33mcommit 9219ec3808b3403ca5867cfc3b2a66d5f43e2025[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:44:44 2022 +0700
+
+    restore file jurusan.txt
+
+[33mcommit c0863869abf2f447869f2ffc69c42240c993d288[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:40:55 2022 +0700
+
+    delete jurusan.txt and add mata_kuliah.txt'
+
+[33mcommit 47af64044aab158c94b726547d2a3acce3146e45[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:39:35 2022 +0700
+
+    update file mahasiswa.txt and add new file jurusan.txt
+
+[33mcommit cfa2f76a3e24db40a81924b50265d0f2b8a6af7d[m
+Author: davidmartianus.simarmata@gmail.com <davidmartianus.simarmata@gmail.com>
+Date:   Wed Nov 30 08:36:22 2022 +0700
+
+    add file mahasiswa.txt
